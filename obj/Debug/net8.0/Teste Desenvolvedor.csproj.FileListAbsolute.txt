@@ -1,0 +1,17 @@
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Teste Desenvolvedor.exe
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Teste Desenvolvedor.deps.json
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Teste Desenvolvedor.runtimeconfig.json
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Teste Desenvolvedor.dll
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Teste Desenvolvedor.pdb
+E:\Teste Desenvolvedor\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.csproj.AssemblyReference.cache
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.AssemblyInfoInputs.cache
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.AssemblyInfo.cs
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.csproj.CoreCompileInputs.cache
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste De.D76AF39D.Up2Date
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.dll
+E:\Teste Desenvolvedor\obj\Debug\net8.0\refint\Teste Desenvolvedor.dll
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.pdb
+E:\Teste Desenvolvedor\obj\Debug\net8.0\Teste Desenvolvedor.genruntimeconfig.cache
+E:\Teste Desenvolvedor\obj\Debug\net8.0\ref\Teste Desenvolvedor.dll
